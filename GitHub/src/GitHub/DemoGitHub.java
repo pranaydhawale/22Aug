@@ -16,6 +16,12 @@ public class DemoGitHub {
 	{
 		System.out.println("M3");
 	}
+
+	public void m4()
+	{
+		System.out.println("M4");
+	}
+
 	public static void main(String[] args) {
 		
 		System.out.println("Hello GitHub");
